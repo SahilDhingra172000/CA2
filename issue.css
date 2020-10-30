@@ -1,0 +1,36 @@
+body
+{
+   
+    
+    background:url("u.jpg") no-repeat center fixed;
+    background-size: cover;
+    font-family: 'Anton', sans-serif;
+
+    
+    font-family: 'Anton', sans-serif;
+
+
+
+
+    background-color:yellow;
+
+}
+div.sahil{
+    background-color:orange;
+    width: 50%;
+    margin:0 auto;
+    text-align: center;
+    border-radius:25px;
+    opacity: 0.8;;
+}
+h1{
+    font-size: 4em;
+
+}
+p{
+    font-size: 1.8em;
+}
+i{
+    font-size: 4 em;
+    color: rgb(255, 0, 13);
+}
